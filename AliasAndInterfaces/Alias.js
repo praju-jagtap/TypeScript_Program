@@ -1,0 +1,11 @@
+var data = 10;
+data = "Sai";
+data = true;
+console.log(data);
+var obj = { FirstName: "Prajakta", LastName: "Jagtap", Age: 25 };
+console.log(obj);
+var arr = [];
+arr.push(20);
+arr.push("Komal");
+arr.push(false);
+console.log(arr);
